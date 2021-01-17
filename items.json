@@ -1,0 +1,42 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "TG",
+				"abbreviation": "TG",
+				"full": "Testing Grounds",
+				"authors": [
+					"Karnival"
+				],
+				"version": "1.0"
+			}
+		],
+		"dateAdded": 1596009170,
+		"dateLastModified": 1598447823
+	},
+        "itemProperty": [
+        ],
+        "item": [
+                {
+                        "name": "Tomahawk",
+                        "source": "TG",
+                        "type": "M",
+                        "rarity": "none",
+                        "weight": 1,
+                        "value": 200,
+                        "weaponCategory": "simple",
+                        "property": [
+                                "F",
+                                "L",
+                                "T"
+                        ],
+                        "range": "20/60",
+                        "dmg1": "1d4",
+                        "dmgType": "S",
+                        "weapon": true,
+                        "entries": []
+                }
+        ],
+	"monster": [
+	]
+}

@@ -35,6 +35,18 @@
                         "dmgType": "S",
                         "weapon": true,
                         "entries": []
+                },
+                {
+                        "name": "White Mantle of Spell Turning",
+                        "source": "TG",
+                        "tier": "major",
+                        "rarity": "rare",
+                        "reqAttune": true,
+                        "wondrous": true,
+                        "entries": [
+                                "This cloak is made of white fur, with a fine black trim "
+                                "You have advantage on saving throws against any spell that targets only you (not in an area of effect). If the saving throw succeeds, you roll a 20, and the spell is of 7th level or lower, the spell has no effect on you and instead targets the caster"
+                        ]
                 }
         ],
 	"monster": [

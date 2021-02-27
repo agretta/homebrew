@@ -47,6 +47,18 @@
                                 "This cloak is made of white fur, with a fine black trim "
                                 "You have advantage on saving throws against any spell that targets only you (not in an area of effect). If the saving throw succeeds, you roll a 20, and the spell is of 7th level or lower, the spell has no effect on you and instead targets the caster"
                         ]
+                },
+                {
+                        "name": "Disguise Self Ring",
+                        "source": "TG",
+                        "tier": "minor",
+                        "rarity": "uncommon",
+                        "reqAttune": true,
+                        "wondrous": true,
+                        "entries": [
+                                "This ring, adorned with an unknown symbol, allows you to cast disguise self.
+                                It has 3 charges, and it regains 1d3 expended charges daily at dawn. While wearing it, you can expend 1 charge to cast the associated spell (save DC 13)."
+                        ]
                 }
         ],
 	"monster": [

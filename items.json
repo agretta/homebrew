@@ -59,6 +59,15 @@
                                 "This black ring, adorned with white stone, allows you to cast disguise self.",
                                 "It has 3 charges, and it regains 1d3 expended charges daily at dawn. While wearing it, you can expend 1 charge to cast the associated spell (save DC 13)."
                         ]
+                },
+                {
+                        "name": "Residuum",
+                        "source": "TG",
+                        "tier": "minor",
+                        "rarity": "mythic",
+                        "entries": [
+                                "Residuum is a rare ashy white dust-like substance that is useful in several magical applications, including replacing material components in spell casting."
+                        ]
                 }
         ],
 	"monster": [
